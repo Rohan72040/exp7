@@ -1,5 +1,3 @@
 print("Hello")
 print("vvce")
-print("editing")
-print("trigger")
-print("vvce")
+print("done")
